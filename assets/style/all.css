@@ -69,6 +69,9 @@ table {
 .pt-3 {
   padding-top: 32px; }
 
+.pl-2 {
+  padding-left: 16px; }
+
 .mr-2 {
   margin-right: 16px; }
 
@@ -500,5 +503,24 @@ a {
     .contact .btn a:active {
       width: 47%;
       padding: 13px 0; }
+
+.qa {
+  margin-top: 96px;
+  margin-bottom: 160px; }
+  .qaTitle {
+    border-left: 8px solid #9F1213;
+    margin-bottom: 60px;
+    line-height: 80px; }
+  .qa h3 {
+    font-size: 32px;
+    line-height: 63px;
+    margin-bottom: 36px; }
+  .qa .question {
+    font-size: 20px;
+    line-height: 23px;
+    font-weight: 600; }
+  .qa .answer {
+    width: 85%;
+    margin-left: 95px; }
 
 /*# sourceMappingURL=all.css.map */
