@@ -1,0 +1,29 @@
+
+
+.qa {
+    margin-top: 96px;
+    margin-bottom: 160px;
+
+    &Title {
+        border-left: 8px solid #9F1213;
+        margin-bottom: 60px;
+        line-height: 80px;
+    }
+
+    h3 {
+        font-size: 32px;
+        line-height: 63px;
+        margin-bottom: 36px;
+    }
+
+    .question {
+        font-size: 20px;
+        line-height: 23px;
+        font-weight: 600;
+    }
+
+    .answer {
+        width: 85%;
+        margin-left: 95px;
+    }
+}
